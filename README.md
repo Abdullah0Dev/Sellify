@@ -7,6 +7,7 @@
 5. 🤸 [Quick Start](#quick-start)
 6. 🖼️ [Assets](#assets)
 7. 🔗 [Links](#links)
+8. 🧩 [Snippets](#snippets)
 
 ## 🚨 Tutorial
 
@@ -104,3 +105,32 @@ Use Expo Go or simulator to preview the mobile app 📱
 
 * 🎨 [Figma Design](https://www.figma.com/design/r2oLfsjVOOHBRAmV9zxc8p/eCommerce-App-UI-Kit---Case-Study-Ecommerce-Mobile-App-UI-kit-%28Community%29?node-id=1-16990&t=aGKMq0fjCva2xjBh-1)
 * 📺 [YouTube Channel](https://www.youtube.com/@Dev-Minds/videos)
+
+## <a name="snippets">🧩 Snippets</a>
+
+Here are some useful constants and shared config files used in the app 👇
+
+### 📌 `frontend/src/constants/index.ts`
+
+```ts
+export const COLORS = {
+  primary: '#007bff',
+  secondary: '#6c757d',
+  white: '#ffffff',
+  black: '#000000',
+};
+
+export const SIZES = {
+  base: 8,
+  font: 14,
+  radius: 12,
+  padding: 24,
+};
+
+export const FONTS = {
+  regular: 'System',
+  bold: 'System',
+};
+```
+
+👉 [View on GitHub](https://github.com/Abdullah0Dev/Sellify-progress/blob/main/frontend/src/constants/index.ts)
