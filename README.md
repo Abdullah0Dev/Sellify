@@ -1,18 +1,18 @@
 ## 📋 Table of Contents
 
-1. 🤖 [Introduction](#🤖-introduction)
-2. ⚙️ [Tech Stack](#⚙️-tech-stack)
-3. 🔋 [Features](#🔋-features)
-4. ⚡ [Folder Structure](#⚡-folder-structure)
-5. 🤸 [Quick Start](#🤸-quick-start)
-6. 🖼️ [Assets](#🖼️-assets)
-7. 🔗 [Links](#🔗-links)
-8. 
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. ⚡ [Folder Structure](#folder-structure)
+5. 🤸 [Quick Start](#quick-start)
+6. 🖼️ [Assets](#assets)
+7. 🔗 [Links](#links)
+
 ## 🚨 Tutorial
 
 This repo is part of a full video tutorial on Dev Minds 🧠💻. Perfect for devs who love to learn by doing!
 
-## 🤖 Introduction
+## <a name="introduction">🤖 Introduction</a>
 
 This Full Stack E-Commerce App is built with a clean architecture & modern stack. It features:
 
@@ -20,7 +20,7 @@ This Full Stack E-Commerce App is built with a clean architecture & modern stack
 * A smooth mobile shopping experience 📱
 * A powerful backend for managing products, orders & users 🔧
 
-## ⚙️ Tech Stack
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
 ### 🖥️ Admin Panel
 
@@ -40,7 +40,7 @@ This Full Stack E-Commerce App is built with a clean architecture & modern stack
 * MongoDB 🟢
 * JWT Auth 🔐
 
-## 🔋 Features
+## <a name="features">🔋 Features</a>
 
 ✅ Smooth animations and transitions (Moti / Framer Motion)
 ✅ Admin dashboard with product, order, and user control
@@ -50,7 +50,7 @@ This Full Stack E-Commerce App is built with a clean architecture & modern stack
 ✅ Fast API responses with Express.js
 ✅ Real-time feedback with clean UX/UI
 
-## ⚡ Folder Structure
+## <a name="folder-structure">⚡ Folder Structure</a>
 
 ```
 root
@@ -59,7 +59,7 @@ root
 ├── backend   # Backend (Node + Express + MongoDB)
 ```
 
-## 🤸 Quick Start
+## <a name="quick-start">🤸 Quick Start</a>
 
 ### 1️⃣ Clone the Repository
 
@@ -96,11 +96,11 @@ npx expo start
 
 Use Expo Go or simulator to preview the mobile app 📱
 
-## 🖼️ Assets
+## <a name="assets">🖼️ Assets</a>
 
 👉 [Google Drive Assets 📂](https://drive.google.com/drive/folders/1L1rxpyGG27UXTISyfPVtNuSHLIEc08FV?usp=sharing)
 
-## 🔗 Links
+## <a name="links">🔗 Links</a>
 
 * 🎨 [Figma Design](https://www.figma.com/design/r2oLfsjVOOHBRAmV9zxc8p/eCommerce-App-UI-Kit---Case-Study-Ecommerce-Mobile-App-UI-kit-%28Community%29?node-id=1-16990&t=aGKMq0fjCva2xjBh-1)
 * 📺 [YouTube Channel](https://www.youtube.com/@Dev-Minds/videos)
