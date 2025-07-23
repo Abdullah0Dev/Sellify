@@ -44,12 +44,12 @@ This Full Stack E-Commerce App is built with a clean architecture & modern stack
 ## <a name="features">🔋 Features</a>
 
 ✅ Smooth animations and transitions (Moti / Framer Motion) <br />
-✅ Admin dashboard with product, order, and user control
-✅ Secure user auth (JWT)
-✅ Fully responsive UI (Web + Mobile)
-✅ Modern folder structure and clean code
-✅ Fast API responses with Express.js
-✅ Real-time feedback with clean UX/UI
+✅ Admin dashboard with product, order, and user control  <br />
+✅ Secure user auth (JWT) <br />
+✅ Fully responsive UI (Web + Mobile) <br />
+✅ Modern folder structure and clean code <br />
+✅ Fast API responses with Express.js <br />
+✅ Real-time feedback with clean UX/UI <br />
 
 ## <a name="folder-structure">⚡ Folder Structure</a>
 
