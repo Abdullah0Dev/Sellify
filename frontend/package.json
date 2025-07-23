@@ -1,0 +1,46 @@
+{
+  "name": "fratelli",
+  "version": "1.0.0",
+  "main": "expo-router/entry",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web",
+    "deploy": "npx expo export -p web && npx eas-cli@latest deploy"
+  },
+  "dependencies": {
+    "@coder-shubh/react-native-image-slider": "^1.0.8",
+    "@react-native-async-storage/async-storage": "2.1.2",
+    "@reduxjs/toolkit": "^2.8.2",
+    "expo": "53.0.10",
+    "expo-constants": "~17.1.4",
+    "expo-linear-gradient": "~14.1.5",
+    "expo-linking": "~7.1.4",
+    "expo-router": "~5.0.3",
+    "expo-splash-screen": "~0.30.7",
+    "expo-status-bar": "~2.2.3",
+    "lottie-react-native": "7.2.2",
+    "lucide-react-native": "^0.513.0",
+    "moti": "^0.30.0",
+    "nativewind": "^4.1.23",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "react-native": "^0.79.3",
+    "react-native-gesture-handler": "~2.24.0",
+    "react-native-image-slider-box": "^2.0.7",
+    "react-native-reanimated": "~3.17.4",
+    "react-native-safe-area-context": "^5.4.0",
+    "react-native-screens": "~4.11.1",
+    "react-native-svg": "15.11.2",
+    "react-native-web": "^0.20.0",
+    "react-redux": "^9.2.0",
+    "redux-persist": "^6.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/react": "~19.0.10",
+    "typescript": "~5.8.3"
+  },
+  "private": true
+}

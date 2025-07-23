@@ -1,0 +1,15 @@
+export const categories = [
+  "All",
+  "T-Shirts",
+  "Shirts",
+  "Hoodies",
+  "Sweatshirts",
+  "Jackets",
+  "Pants",
+  "Jeans",
+  "Shorts",
+  "Suits",
+  "Traditional Wear",
+  "Shoes",
+  "Accessories",
+];

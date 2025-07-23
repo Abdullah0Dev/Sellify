@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "typeRoots": ["./types", "./node_modules/@types"],
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "extends": "expo/tsconfig.base",
+  "include": ["global.d.ts", "**/*.ts", "**/*.tsx", "nativewind-env.d.ts"]
+}
