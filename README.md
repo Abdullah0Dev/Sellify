@@ -43,7 +43,7 @@ This Full Stack E-Commerce App is built with a clean architecture & modern stack
 
 ## <a name="features">🔋 Features</a>
 
-✅ Smooth animations and transitions (Moti / Framer Motion)
+✅ Smooth animations and transitions (Moti / Framer Motion) <br />
 ✅ Admin dashboard with product, order, and user control
 ✅ Secure user auth (JWT)
 ✅ Fully responsive UI (Web + Mobile)
