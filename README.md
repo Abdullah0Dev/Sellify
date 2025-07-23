@@ -1,13 +1,13 @@
 ## 📋 Table of Contents
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. ⚡ [Folder Structure](#folder-structure)
-5. 🤸 [Quick Start](#quick-start)
-6. 🖼️ [Assets](#assets)
-7. 🔗 [Links](#links)
-
+1. 🤖 [Introduction](#🤖-introduction)
+2. ⚙️ [Tech Stack](#⚙️-tech-stack)
+3. 🔋 [Features](#🔋-features)
+4. ⚡ [Folder Structure](#⚡-folder-structure)
+5. 🤸 [Quick Start](#🤸-quick-start)
+6. 🖼️ [Assets](#🖼️-assets)
+7. 🔗 [Links](#🔗-links)
+8. 
 ## 🚨 Tutorial
 
 This repo is part of a full video tutorial on Dev Minds 🧠💻. Perfect for devs who love to learn by doing!
